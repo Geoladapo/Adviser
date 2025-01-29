@@ -20,7 +20,7 @@ function App() {
             <h2>Advice ME</h2>
             <div>
                 <p>{advice}</p>
-                <button onClick={adviceMe}>Click here</button>
+                <button onClick={adviceMe}>Click here for more</button>
             </div>
         </>
     )
